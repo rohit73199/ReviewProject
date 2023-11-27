@@ -79,6 +79,20 @@
         color: green;
     }
 }
+.dropdown-wrapper {
+    background-color: #171717;
+    margin-right: 20px;
+  }
+  
+.dropdown-wrapper button {
+    background: transparent;
+    background-color: #171717;
+    border: none;
+    margin-right: 130px;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+  }
 
 .middle3{
     background-image: url("https://pic.onlinewebfonts.com/svg/img_550257.png");

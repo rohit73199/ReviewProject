@@ -34,7 +34,7 @@ export default function NavBar1() {
 
           <Link to="/Sign up">{!user?<Button size='large' sx={{color:'white'}}>Sign Up</Button> : null}</Link>
           <Link to="/Login">{!user?<Button size='large' sx={{color:'white'}}>Login</Button> : null}</Link> 
-          <PositionedMenu/>
+          {user?<PositionedMenu/>:null}
         </Toolbar>
       </AppBar>
     </Box>

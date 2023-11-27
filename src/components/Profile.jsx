@@ -16,7 +16,6 @@ export default function PositionedMenu() {
   };
   const handleClose = () => {
     setAnchorEl(null);
-    setuser(null);
   };
 
   return (
@@ -47,7 +46,7 @@ export default function PositionedMenu() {
       >
         <MenuItem onClick={handleClose}>Profile</MenuItem>
         <MenuItem onClick={handleClose}>My account</MenuItem>
-        {user?<MenuItem onClick={handleClose}>Logout</MenuItem>:""}
+        <MenuItem onClick={()=>{setuser(null)}}>Logout</MenuItem>
       </Menu>
     </div>
   );
