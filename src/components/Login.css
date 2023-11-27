@@ -79,10 +79,11 @@
 }
 .submit-container{
     display:flex;
+    flex-direction: column;
     gap:30px;
     margin:60px auto;
     :hover{
-        background-color: bisque;
+        background-color: lightslategrey;
     }
 }
 .submit{

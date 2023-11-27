@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "name": "Rohit",
+      "email": "Rohit@gmail.com",
+      "password": "ertyui",
+      "id": 1
+    },
+    {
+      "name": "kam",
+      "email": "kam@gmail.com",
+      "password": "erty",
+      "id": 2
+    },
+    {
+      "name": "my",
+      "email": "my@gmail.com",
+      "password": "erty",
+      "id": 3
+    },
+    {
+      "name": "nm",
+      "email": "nm@gmail.com",
+      "password": "erty",
+      "id": 4
+    },
+    {
+      "name": "getmyemail",
+      "email": "getmyemail@gmail.com",
+      "password": "erty",
+      "id": 5
+    },
+    {
+      "name": "Fname",
+      "email": "Fname@gmail.com",
+      "password": "erty",
+      "id": 6
+    },
+    {
+      "name": "gh",
+      "email": "gh@gmail.com",
+      "password": "erty",
+      "id": 7
+    },
+    {
+      "name": "hrt",
+      "email": "hrt@gmail.com",
+      "password": "Idont",
+      "id": 8
+    },
+    {
+      "name": "Rae",
+      "email": "Rae@gmail.com",
+      "password": "strong",
+      "id": 9
+    },
+    {
+      "name": "kea",
+      "email": "kea@gmail.com",
+      "password": "strong",
+      "id": 10
+    },
+    {
+      "name": "nami",
+      "email": "nami@gmail.com",
+      "password": "ref",
+      "id": 11
+    },
+    {
+      "name": "rami",
+      "email": "rami@gmail.com",
+      "password": "reff",
+      "id": 12
+    },
+    {
+      "name": "sami",
+      "email": "sami@gmail.com",
+      "password": "reff",
+      "id": 13
+    },
+    {
+      "name": "theo",
+      "email": "theo@gmail.com",
+      "password": "reff",
+      "id": 14
+    }
+  ]
+}
